@@ -17,7 +17,7 @@ A RESTful Notes Management API built with Spring Boot and PostgreSQL.
 
 ## Tech Stack
 
-* Java 21
+* Java 26
 * Spring Boot
 * Spring Data JPA
 * PostgreSQL
@@ -50,6 +50,8 @@ DELETE /api/notes/{id}
 ### Search Notes
 
 GET /api/notes/search?title=spring
+
+![notes-api-springboot-image.png](AppImages/notes-api-springboot-image.png)
 
 ## Running Locally
 
